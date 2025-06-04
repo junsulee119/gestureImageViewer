@@ -4,7 +4,8 @@ Gesture‑controlled image viewer that uses **MediaPipe Hand Landmarker** to det
 
 ## Demo Video
 
-<video src="media/demoVid.mp4" controls width="640"></video>
+[![demoVideo](https://img.youtube.com/vi/oZMJVzAkSbs/0.jpg)](https://www.youtube.com/watch?v=oZMJVzAkSbs)  
+**Click the image to see Demo video!!**
 
 ## Overview
 
